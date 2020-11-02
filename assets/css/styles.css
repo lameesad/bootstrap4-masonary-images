@@ -1,0 +1,14 @@
+body { padding-top: 80px; }
+
+.card,.card-img-top{
+    border-radius: 0;
+    border:none;
+}
+
+#img-modal img{
+    width: 100%;
+}
+
+.modal-backdrop.show {
+    opacity: 0.8;
+}
